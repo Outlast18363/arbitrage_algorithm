@@ -1,2 +1,2 @@
 # arbitrage_algorithm
-My high school graduation capstone project
+High school graduation capstone project
